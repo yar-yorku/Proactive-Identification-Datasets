@@ -12,5 +12,57 @@ The "[2] Boutique - 3 Nodes Data at O(t)" folder contains the dataset where Bout
 ### Data Structure
 
 General
-- 
+- Avg Host Node1 CPU Usage
+- Host Node1 CPU 0 Usage
+- Host Node1 CPU 1 Usage
+- Avg Host Node2 CPU Usage
+- Host Node2 CPU 0 Usage
+- Host Node2 CPU 1 Usage
+- Avg Host Node3 CPU Usage
+- Host Node3 CPU 0 Usage
+- Host Node3 CPU 1 Usage
+- Avg Host Node4 CPU Usage
+- Host Node4 CPU 0 Usage
+- Host Node4 CPU 1 Usage
+- checkoutservice CPU Usage
+- currencyservice CPU Usage
+- emailservice CPU Usage
+- frontend 1 CPU Usage
+- frontend 2 CPU Usage
+- loadgenerator CPU Usage
+- paymentservice CPU Usage
+- productcatalogservice CPU Usage
+- recommendationservice 1 CPU Usage
+- recommendationservice 2 CPU Usage
+- redis-cart CPU Usage
+- shippingservice CPU Usage
+- Average Response Time
+- Median Response Time
+- Current Response Time Percentile 95
+- Current Response Time Percentile 50
+- Number of Users
+- current_rps GET /
+- current_rps GET /cart
+- current_rps GET /product/0PUK6V6EV0
+- current_rps GET /product/1YMWWN1N4O
+- current_rps GET /product/2ZYFJ3GM2N
+- current_rps GET /product/66VCHSJNUP
+- current_rps GET /product/6E92ZMYYFZ
+- current_rps GET /product/9SIQT8TOJO
+- current_rps GET /product/L9ECAV7KIM
+- current_rps GET /product/LS4PSXUNUM
+- current_rps GET /product/OLJCESPC7Z
+- current_rps POST /cart
+- current_rps POST /cart/checkout
+- current_rps POST /setCurrency
+- current_rps Aggregated
+Co-Location
+- Acme-Web CPU Usage
+- MongoDB CPU Usage
+LAS
+- StressNG 1 CPU Usage
+- StressNG 2 CPU Usage
+- StressNG 3 CPU Usage
+- StressNG 4 CPU Usage
+
 
