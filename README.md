@@ -9,9 +9,9 @@ In the Consolidation directory, the "[1] Boutique - 4 Nodes Data at O(0)" folder
 
 The "[2] Boutique - 3 Nodes Data at O(t)" folder contains the dataset where Boutique is deployed on a 3 node cluster, and its measured response time is compared with the predicted response time from our LAS-based model. The "[3] Boutique - 2 Nodes Data at O(t)" folder contains the dataset where Boutique is deployed on a 2 node cluster, and its measured response time is compared with the predicted response time from our LAS-based model. There is an additional folder containing the raw data before pre-processing.
 
-### Data Structure
+## Data Structure
 
-General
+### General
 - Avg Host Node1 CPU Usage
 - Host Node1 CPU 0 Usage
 - Host Node1 CPU 1 Usage
@@ -56,10 +56,12 @@ General
 - current_rps POST /cart/checkout
 - current_rps POST /setCurrency
 - current_rps Aggregated
-Co-Location
+  
+### Co-Location
 - Acme-Web CPU Usage
 - MongoDB CPU Usage
-LAS
+  
+### LAS
 - StressNG 1 CPU Usage
 - StressNG 2 CPU Usage
 - StressNG 3 CPU Usage
